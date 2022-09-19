@@ -1,0 +1,1 @@
+variables, pointers and arrays
